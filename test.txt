@@ -1,0 +1,5 @@
+this is test to check how the config server behaves
+if the current text file is pushed into git..
+and we try to access it from config server..
+haha .. now comes the test..
+hello helloooo.. this is a test
